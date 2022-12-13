@@ -1,0 +1,13 @@
+{
+  "name": "flatten-to-dot-notation",
+  "version": "1.0.0",
+  "description": "flatten json object to dot notation",
+  "main": "flatten.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "flatten-to-dot-notation",
+  "version": "1.0.0",
+  "description": "flatten json object to dot notation",
+  "main": "flatten.ts",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.9.4"
+  }
+}
