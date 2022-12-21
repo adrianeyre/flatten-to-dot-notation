@@ -23,7 +23,13 @@ Googling syntax is allowed, googling solutions is not.
             "with": {
                 "nested": "data"
             }
-        }
+        },
+        "another": [
+            {
+              "object": "data"
+            }
+        ],
+        "empty": []
     }
 }
 ```
@@ -31,7 +37,8 @@ Googling syntax is allowed, googling solutions is not.
 ```json
 {
     "some.nested": "data",
-    "some.object.with.nested": "data"
+    "some.object.with.nested": "data",
+    "some.another[0].object": "data"
 }
 ```
 ## Submitting your solution
